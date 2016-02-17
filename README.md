@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My-cool-blog
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,8 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# geekstuff
+this is to practice
+>>>>>>> 5dcc56e76db94a0e081e937ac2c6e07c8328b493
+# myblog_onboarding
